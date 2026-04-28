@@ -1,0 +1,24 @@
+# MATLAB temporary/backup files
+*.asv
+*.bak
+*.tmp
+*.autosave
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB generated/cache files
+*.slxc
+*.mex*
+*.pdb
+
+# Old failed/archived runs
+archive_old/
+
+# Accidental nested results folder if created
+project_scripts/project_results/
+
+# Optional: uncomment these if repo becomes too large
+# project_results/**/*.mat
+# *.mat
