@@ -20,8 +20,8 @@ At the current stage, the simulation side is complete and verified. Real-robot s
 ## Team
 
 - Pranjali Rangnekar, `prangnekar@wpi.edu`
-- Jay Manish Patil, `TODO: add email`
-- Harsh Shah, `TODO: add email`
+- Jay Manish Patil, `jpatil1@wpi.edu`
+- Harsh Shah, `hshah2@wpi.edu`
 
 ---
 
